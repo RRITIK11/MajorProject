@@ -18,3 +18,6 @@
 # Appwrite IDs
 - Take all the id that we rerquired from appwrite that we use as a backend service in this project
 - Simply create a new Projects -> setup database -> setup storage and get there ids
+
+# Appwrite config Account, Database, Bucket 
+
